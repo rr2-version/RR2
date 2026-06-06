@@ -1,8 +1,8 @@
 {
-  "active": false,
+  "active": true,
   "msg": "Hệ thống đang bảo trì",
   "users": {
-    "A24D2F51B499780FEA686BC7A": "2050-12-31",
+    "A24D2F51B499780FEA686BC7A": "2010-12-31",
     "F88B293C48324B359X9Y8Z7W6": "2026-09-20"
   }
 }
